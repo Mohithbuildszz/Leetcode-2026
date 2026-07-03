@@ -1,4 +1,4 @@
-# 🚀 LeetCode Daily Challenge 2026
+#  LeetCode Daily Challenge 2026
 
 Welcome to my **LeetCode Daily Challenge** repository!
 
@@ -6,7 +6,7 @@ This repository documents my journey of solving LeetCode problems every day usin
 
 ---
 
-## 🎯 Goals
+##  Goals
 
 - 📅 Solve LeetCode problems consistently.
 - 💻 Master Data Structures & Algorithms.
@@ -16,7 +16,7 @@ This repository documents my journey of solving LeetCode problems every day usin
 
 ---
 
-## 🛠️ Language
+##  Language
 
 - Java
 
@@ -32,17 +32,6 @@ Each day's folder contains:
 - ✅ Dry Run
 - ✅ Time & Space Complexity
 
----
-
-## 📅 Progress
-
-| Day | Problem | Difficulty | Status |
-|-----|---------|------------|--------|
-| Day 01 | Reverse Integer | Medium | ✅ |
-
-> This table will be updated as I solve more problems.
-
----
 
 ## 📚 Topics Covered
 
@@ -73,5 +62,4 @@ Each day's folder contains:
 Every solved problem is one step closer to becoming a better software engineer.
 
 ---
-
-⭐ Thank you for visiting my repository!
+ Thank you for visiting my repository!
