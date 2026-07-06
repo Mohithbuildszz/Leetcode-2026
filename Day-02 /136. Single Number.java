@@ -1,14 +1,9 @@
 class Solution {
-    public int climbStairs(int n) {
-        if(n<=2){
-            return n;
+    public int singleNumber(int[] nums) {
+        int n = 0;
+        for(int i=0;i<nums.length;i++){
+            n ^= nums[i];
         }
-    int a=1;int b=2; int c =0;
-    for(int i=3;i<=n;i++){
-        c = a + b;
-        a = b;
-        b = c;
-    }
-    return c;
+        return n;
     }
 }
