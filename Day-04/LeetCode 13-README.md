@@ -7,10 +7,7 @@ Convert a Roman numeral string into its corresponding integer.
 ---
 
 ## Visual Explanation
-<p align="center">
-  <img src="./roman-to-integer-workflow.png"
-       width="1000">
-</p>
+<img width="1672" height="941" alt="67f22aa6-4667-4d13-a9df-c8fe428a4527" src="https://github.com/user-attachments/assets/1f9d61c3-9ff5-4efb-a022-861d37c7f347" />
 
 ---
 
