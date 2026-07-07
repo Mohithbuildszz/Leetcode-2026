@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="fe6207ce-cf03-49b8-85ee-d62f189480b6" src="https://github.com/user-attachments/assets/ee3aeb09-a383-447b-bcb2-ae80f203e8d3" />
 # FizzBuzz
 
 ## Problem Statement
