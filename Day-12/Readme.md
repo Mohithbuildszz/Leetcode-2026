@@ -5,7 +5,9 @@
 Given an integer array `nums`, move all `0`s to the end while maintaining the relative order of the non-zero elements.
 
 The operation must be performed **in-place** without creating another array.
-
+<div>
+    <img width="1024" height="1536" alt="81ba64ca-f06c-42de-a870-47ca2bddc061" src="https://github.com/user-attachments/assets/6bf4d748-1a15-45ec-86c9-8d4c75739895" />
+</div>
 ### Example
 
 **Input**
