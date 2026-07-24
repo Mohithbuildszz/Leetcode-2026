@@ -1,7 +1,7 @@
 <img width="1181" height="1331" alt="23aab88b-9acd-46e5-8f71-97d8ba9d7e57" src="https://github.com/user-attachments/assets/87fc9c62-c0fa-4dde-a003-d56254b21496" />
-# LeetCode 66. Plus One
+## LeetCode 66. Plus One
 
-## Approach
+### Approach
 
 The given array represents a large integer, where each element is a single digit. Our task is to add **1** to this number and return the updated array.
 
