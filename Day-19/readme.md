@@ -289,7 +289,10 @@ Therefore,
 | Dutch National Flag | O(n) | O(1) | 1 |
 
 ---
-
+#diagram 
+<div>
+   <img width="1402" height="1122" alt="6966ec98-f4ab-4142-b541-0f6c1184bd43" src="https://github.com/user-attachments/assets/a8a5c58b-4ad5-4542-bc64-8ef7ba9cab2f" />
+</div>
 # Key Takeaways
 
 - Counting Sort is simple and easy to implement.
