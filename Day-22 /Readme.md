@@ -357,3 +357,6 @@ O(1)
 - The formula `(position / 8) + 1` automatically determines the required number of key presses.
 
 ---
+<div>
+    <img width="1024" height="1536" alt="c01855cb-c010-425e-b8ba-42cc6ca4f69a" src="https://github.com/user-attachments/assets/c405d212-e0aa-4b98-928b-e24ffea04465" />
+</div>
